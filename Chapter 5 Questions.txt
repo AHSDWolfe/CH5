@@ -1,0 +1,26 @@
+11/27/18
+	Review Questions (1, 4, 6-11)
+		1) B
+		4) D
+		6) A
+		7) B
+		8) A
+		9) C
+		10) B
+		11) B
+
+	Algorithm Workbench (6, 11)
+		6)	for (int x = 0; x > 10; x++){
+				for (int c = 0; c > 15; c++){
+					System.out.print('#');
+				}
+			}
+		11) while (numEntered < 1 || numEntered > 5){
+				System.out.print("Enter a number 1-5");
+				numEntered = keyboard.nextInt();
+			}
+
+	Find the Error (1, 2, 4)
+		1) There is no { or }
+		2) Total was never initialized
+		4) There should be a semicolon after parentheses, not before
